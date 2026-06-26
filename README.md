@@ -23,7 +23,7 @@ Product Requirement Document (PRD) — BettaMarket: Marketplace Jual Beli Ikan C
 Tujuan dari project ini adalah membangun sebuah platform web jual beli (marketplace) yang menghubungkan penjual (breeder/peternak ikan cupang) dengan pembeli secara langsung melalui sistem etalase produk, keranjang belanja, dan transaksi pemesanan. Aplikasi ini terinspirasi dari konsep marketplace umum (seperti Tokopedia/Shopee) dengan penyederhanaan fitur khusus untuk kebutuhan jual beli ikan cupang hias, termasuk pengelompokan berdasarkan jenis ekor (Halfmoon, Plakat, Crowntail, Double Tail, Super Delta, dan lainnya).
 2. Teknologi yang Digunakan (Tech Stack)
 3. 
-Aplikasi ini dikembangkan menggunakan kombinasi teknologi modern untuk menghasilkan aplikasi web yang interaktif, responsif, dan aman:
+Aplikasi ini dikembangkan menggunakan kombinasi teknologi modern untuk menghasilkan aplikasi web yang interaktif, rsponsif, dan aman:
 •Backend Framework: Laravel (PHP) — Menyediakan arsitektur MVC, ORM (Eloquent), routing, keamanan, dan manajemen basis data.
 •Autentikasi: Laravel Breeze/Sanctum atau autentikasi bawaan Laravel — untuk membedakan peran Penjual dan Pembeli (role-based access).
 •Database: MySQL — untuk penyimpanan relasional data pengguna, produk (ikan cupang), kategori, keranjang, pesanan, dan transaksi.
