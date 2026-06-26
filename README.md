@@ -1,17 +1,21 @@
 BettaCupangMarket
+
 Sistem Marketplace Jual Beli Ikan Cupang Berbasis Website Menggunakan Framework Laravel
+
 Identitas Project
+
 Judul:
 Sistem Marketplace Jual Beli Ikan Cupang Berbasis Website Menggunakan Framework Laravel
-Nama Kelompok:
-Naah Wibu
+Nama Kelompok:Naah Wibu
+
 Website Demo:
 https://violet-mole-563384.hostingersite.com/
+
 Anggota Kelompok
-1.	Agustian Alba — NIM: 2411100 (Ketua)
-2.	Hendri Setyawan — NIM: 246363
-3.	Arif — NIM: 26626262
-4.	Jadi — NIM: 277374
+1.	Augitian Alba Setiaji — NIM: 241120110 (Ketua)
+2.	Hendri Setyawan (NIM: 241110041) 
+3.	Danisa Arif Nugroho (NIM: 241110032)
+4.	Nadi Supriadi (NIM: 241110054)
 
 Product Requirement Document (PRD) — BettaMarket: Marketplace Jual Beli Ikan Cupang
 1. Ringkasan Eksekutif & Tujuan
@@ -99,10 +103,13 @@ Pemisahan Struktur Kode:
 9. Batasan
 •	Dilarang menggunakan, menambah, atau mengubah fitur yang tidak ditentukan pada rancangan di atas.
 
-Tabel Ringkas Pembagian Peran
-Nama	Peran	Tugas Utama
-Augitian Alba Setiaji	Backend Architect & Lead Developer	Database, autentikasi, koordinasi tim, landing page, deployment, QA, keamanan
-Hendri Setyawan	UI/UX Designer & Frontend Auth Developer	Styling dasar, layout master, UI Login/Register/Edit Profil
-Danisa Arif Nugroho	Modul Produk & Etalase Developer	CRUD produk, upload foto, kategori jenis ekor, filter pencarian
-Nadi Supriadi	Modul Transaksi & Interaksi Developer	Keranjang, checkout, riwayat pesanan, ulasan, wishlist
+Pembagian Peran Tugas
+
+Augitian Alba Setiaji : Backend Architect & Lead Developer	Database, autentikasi, koordinasi tim, landing page, deployment, QA, keamanan
+
+Hendri Setyawan	: UI/UX Designer & Frontend Auth Developer	Styling dasar, layout master, UI Login/Register/Edit Profil
+
+Danisa Arif Nugroho	: Modul Produk & Etalase Developer	CRUD produk, upload foto, kategori jenis ekor, filter pencarian
+
+Nadi Supriadi : Modul Transaksi & Interaksi Developer	Keranjang, checkout, riwayat pesanan, ulasan, wishlist
 
