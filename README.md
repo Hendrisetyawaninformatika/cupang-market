@@ -103,7 +103,7 @@ Pemisahan Struktur Kode:
 •	Penulisan kode harus memisahkan struktur HTML (Blade), CSS, dan JS secara terpisah.
 •	File CSS dan JS kustom harus ditempatkan di folder public/assets.
 9. Batasan
-•	Dilarang menggunakan, menambah, atau mengubah fitur yang tidak ditentukan pada rancangan di atas.
+•	Dilarang menggunakan, menambah, atau mengubah fitur yang tidak dijtentukan pada rancangan di atas.
 
 Pembagian Peran Tugas
 
