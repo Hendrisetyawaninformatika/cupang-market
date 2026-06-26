@@ -64,7 +64,7 @@ Berikut adalah entitas utama yang direncanakan dalam database MySQL:
 6. Antarmuka Pengguna & UX (User Experience)
 •	Grid Layout Produk: Halaman beranda dan etalase menggunakan grid responsif untuk menampilkan listing ikan cupang dengan foto, nama, dan harga.
 •	Desain Responsif: Tampilan optimal saat dibuka di perangkat mobile maupun desktop.
-•	SweetAlert Alerts: Dialog pop-up modern untuk aksi krusial, seperti konfirmasi sebelum menghapus produk/pesanan dan notifikasi keberhasilan transaksi.
+•	SweetAlert Alers: Dialog pop-up modern untuk aksi krusial, seperti konfirmasi sebelum menghapus produk/pesanan dan notifikasi keberhasilan transaksi.
 7. Pembagian Tugas Antar Anggota
 Berikut adalah pembagian peran dan tanggung jawab pengembangan fitur dalam project ini:
 1. Augitan Alba Setiaji (NIM: 241120110) — Ketua
