@@ -41,7 +41,7 @@ B. Manajemen Etalase / Produk (Ikan Cupang)
 •Edit & Hapus Produk: Penjual dapat mengubah informasi atau menghapus listing produk miliknya dengan konfirmasi SweetAlert.
 •Detail Produk: Halaman detail untuk melihat foto ikan secara penuh, harga, stok tersedia, info penjual, deskripsi lengkap, dan tombol tambah ke keranjang/beli langsung.
 C. Transaksi & Keranjang Belanja
-•	Keranjang Belanja: Pembeli dapat menambahkan satu atau beberapa ikan cupang ke keranjang sebelum checkout.
+•	Keranjang Belanja: Pembeli dapat menabahkan satu atau beberapa ikan cupang ke keranjang sebelum checkout.
 •	Checkout & Pemesanan: Pembeli dapat melakukan checkout dengan mengisi alamat pengiriman dan memilih metode pembayaran/pengiriman.
 •	Riwayat Pesanan: Pembeli dan penjual dapat melihat daftar riwayat transaksi beserta statusnya (menunggu konfirmasi, dikirim, selesai, dibatalkan).
 •	Konfirmasi Pesanan: Penjual dapat mengonfirmasi atau menolak pesanan masuk, serta memperbarui status pengiriman.
