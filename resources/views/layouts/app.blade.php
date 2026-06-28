@@ -7,6 +7,9 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <style>
         :root { --primary: #667eea; --secondary: #764ba2; --success: #10b981; --danger: #ef4444; }
         * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -133,7 +136,18 @@
     <nav class="navbar-custom">
         <div class="container">
             <div class="d-flex justify-content-between align-items-center">
-                <a class="navbar-brand" href="{{ route('home') }}"><i class="fas fa-fish"></i> Cupang Market</a>
+               <a class="navbar-brand d-flex align-items-center gap-2" href="{{ route('home') }}">
+    <!-- Ukuran Besar -->
+    <img src="https://cdn.corenexis.com/f/DmqbTrJmPkp.png" 
+         alt="Cupang Market" 
+         height="100" 
+         style="border-radius: 10px; object-fit: contain;">
+    
+    <!-- Atau pakai width + height -->
+    <!-- <img src="..." alt="Cupang Market" width="50" height="50"> -->
+    
+    <span class="fw-bold fs-4">Cupang Market</span>
+</a>
                 <div class="d-flex align-items-center gap-3">
                     <a class="nav-link-custom {{ request()->routeIs('home') ? 'active' : '' }}" href="{{ route('home') }}"><i class="fas fa-home me-1"></i> Beranda</a>
                     <a class="nav-link-custom {{ request()->routeIs('dashboard') ? 'active' : '' }}" href="{{ route('dashboard') }}"><i class="fas fa-chart-line me-1"></i> Dashboard</a>
