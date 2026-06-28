@@ -140,4 +140,7 @@ class FirebaseService
             'totalSellers' => count($sellers),
         ];
     }
+    
 }
+
+
