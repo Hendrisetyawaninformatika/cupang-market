@@ -3,6 +3,7 @@
 @section('title', 'Tambah Produk')
 
 @section('content')
+<meta name="viewport" content="width=1024">
 <div class="container py-4">
     <div class="row justify-content-center">
         <div class="col-md-8">
